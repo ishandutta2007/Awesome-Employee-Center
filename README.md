@@ -1,18 +1,45 @@
-# Awesome Employee Center [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<p align="center">
+  <img src="./assets/banner.svg" alt="Awesome Employee Center Banner" width="100%" />
+</p>
 
-> A curated list of leading Enterprise Employee Centers, modern intranets, employee experience platforms (EXP), self-service portals, and digital workplace software.
+# Awesome Employee Center
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome List" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Employee-Center/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Employee-Center?style=flat-square&color=yellow" alt="Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Employee-Center/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Employee-Center?style=flat-square&color=blue" alt="Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Employee-Center/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Employee-Center?style=flat-square&color=green" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+> 🌐 A comprehensive, curated catalog of leading **Enterprise Employee Centers**, modern **intranets**, **employee experience platforms (EXP)**, **self-service service-desk portals**, and **digital workplace software**.
 
 ---
 
-## Sector Overview & Market Dynamics
+## 📑 Table of Contents
 
-The global Employee Experience Management (EXM) and digital workplace portal sector is valued between **$7.5 billion and $8.6 billion**, projected to surpass **$17.5 billion by the 2030s** at an estimated CAGR of ~9.5–10%. The sector is **moderately fragmented**: mega-cap enterprise suites (Microsoft Viva, ServiceNow Employee Center) act as powerful ecosystem anchors for enterprise workflows and communications, while specialized modern intranet and digital workplace vendors (Simpplr, Workvivo, Unily, LumApps) fiercely compete for mid-market and frontline engagement.
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [💼 SaaS Products](#-saas-products)
+- [🔓 Open-Source Employee Centers & Portals](#-open-source-employee-centers--portals)
+- [📈 Star History](#-star-history)
+- [🤝 Contributing](#-contributing)
+- [💖 Support](#-support)
 
 ---
 
-## SaaS Products
+## 📊 Sector Overview & Market Dynamics
 
-| Product | Company Size / Valuation | Starting Pricing | Free Tier / Trial Limit | Key Highlights |
+The global Employee Experience Management (EXM) and digital workplace portal sector is valued between **$7.5 billion and $8.6 billion**, projected to scale past **$17.5 billion by the 2030s** at an estimated compound annual growth rate (CAGR) of ~9.5–10%. 
+
+The sector is **moderately fragmented**: mega-cap enterprise ecosystems (such as Microsoft Viva and ServiceNow Employee Center) act as primary anchors for deep workflow automation, IT/HR case routing, and communication channels across large multinational corporations. Concurrently, specialized AI-first intranet and engagement platforms (like Simpplr, Workvivo, Unily, and LumApps) fiercely compete for mid-market organizations and frontline worker enablement, where rapid deployment and consumer-grade UX are paramount.
+
+---
+
+## 💼 SaaS Products
+
+| 🏢 Product | 💰 Company Size / Valuation | 🏷️ Starting Pricing | ⏱️ Free Tier / Trial Limit | 🌟 Key Highlights |
 | :--- | :--- | :--- | :--- | :--- |
 | [Microsoft Viva](https://www.microsoft.com/en-us/microsoft-viva) | Market Cap: ~$3.1T (Microsoft) | $2.00 / user / month (Employee Communications & Communities plan); $12.00 / user / month (Full Viva Suite) | 30-day free trial (up to 25 user licenses via M365 Admin Center; core Viva Connections included free in existing M365 licenses) | Deep Microsoft 365 / Teams native integration, unified corporate communications, employee learning, and workplace analytics. |
 | [ServiceNow Employee Center](https://www.servicenow.com/products/employee-center.html) | Market Cap: ~$163B (ServiceNow) | $24.00 – $45.00 / employee / year (standalone Employee Center Pro estimate); standard portal included with ITSM/HRSD base | No public self-serve free tier; 14-day guided sandbox demo instance available on request for enterprise evaluations | Centralized enterprise service delivery hub, cross-departmental universal request fulfillment (IT, HR, Workplace), Now Assist AI workflows. |
@@ -23,9 +50,9 @@ The global Employee Experience Management (EXM) and digital workplace portal sec
 
 ---
 
-## Open-Source Employee Centers & Portals
+## 🔓 Open-Source Employee Centers & Portals
 
-Self-hosted, transparent, and customizable platforms to deploy internal portals, self-service desks, and digital workspaces for teams.
+Self-hosted, transparent, and customizable platforms to deploy internal portals, self-service desks, and digital workspaces for teams:
 
 * [frappe/erpnext](https://github.com/frappe/erpnext) [![Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) — Comprehensive enterprise system featuring a full employee lifecycle portal, expense claims, attendance tracking, leave applications, and organizational hierarchy.
 * [mattermost/mattermost](https://github.com/mattermost/mattermost) [![Stars](https://img.shields.io/github/stars/mattermost/mattermost?style=social&color=white)](https://github.com/mattermost/mattermost/stargazers) — Secure collaboration and digital workplace communication platform for mission-critical operations, internal announcements, and automated workflow playbooks.
@@ -37,6 +64,23 @@ Self-hosted, transparent, and customizable platforms to deploy internal portals,
 
 ---
 
-## Contributing
+## 📈 Star History
 
-Contributions are welcome! Please check out the [contribution guidelines](CONTRIBUTING.md) before submitting a pull request.
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Employee-Center&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Employee-Center&type=date&legend=top-left)
+
+---
+
+## 🤝 Contributing
+
+Contributions are always welcome! Please check out the [contribution guidelines](CONTRIBUTING.md) before submitting a pull request or suggesting new employee center tools and frameworks.
+
+---
+
+## 💖 Support
+
+Thank you for visiting and supporting **Awesome Employee Center**! If you found this repository helpful, please consider:
+
+- ⭐ **Starring** this repository to help others discover it
+- 🍴 **Forking** the repo and contributing your favorite employee center tools
+- 📢 **Sharing** with your network, team, or fellow developers
+- ☕ **Buying a coffee / sponsoring** the project via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007) to help sustain ongoing maintenance and curation!
